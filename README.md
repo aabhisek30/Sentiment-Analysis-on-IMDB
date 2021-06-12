@@ -55,8 +55,8 @@ Here I have done comparative analysis of SVM, Naive Bayes and LSTM for sentiment
 | Multinoimal NB | TFIDF         | 89.10%   |
 | Bernouli NB    | BOW           | 85.68%   |
 | Bernouli NB    | TFIDF         | 88.62%   |
-| SVM            | BOW           |          |
-| SVM            | TFIDF         |          |
+| SVM            | BOW           | 88.60%   |
+| SVM            | TFIDF         | 91.26%   |
 
 ## File 3 - LSTM.ipynb
 
